@@ -10,7 +10,7 @@ public class Const {
     public static final String REPOS = "users/romannurik/repos";
     public static int REQUEST_TIMEOUT = 60;
 
-    public static final String ACCESS_TOKEN = "61a308bf62a70594165da975b90669481bf8335c";
+    public static final String ACCESS_TOKEN = "608a50aaad10921d7354a54b691ec59de9b0cdd8";
 
     // Intent
     public static final String REPOS_KEY = "ReposParcelable";
